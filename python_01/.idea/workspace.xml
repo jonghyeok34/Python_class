@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67cbd4b8-87ed-4c13-b083-572a75f4ec31" name="Default Changelist" comment="real start">
-      <change afterPath="$PROJECT_DIR$/src/180807/01.convert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180807/02.input01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180807/03.oper01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180807/04.oper02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180807/05.oper03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180807/06.oper04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180807/07.oper05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180807/08.oper06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180807/09.oper07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180807/10.format.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180807/11.math01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180807/12.math02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180807/13.if_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180807/14.if_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180807/15.if_03.py" afterDir="false" />
+    <list default="true" id="67cbd4b8-87ed-4c13-b083-572a75f4ec31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/180808/01.if04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/02.while01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/03.while02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/04.while03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/05.while04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/06.for01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/07.for02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/08.for03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/09.for04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/10.for05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/11.for_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/12.for_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/13.for_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/14.for_month.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/15.for_month2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/16.infinite_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/17.continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/str/format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/str/len.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180808/str/upper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/180806/01.for_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/180806/01.for_loop.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,36 +34,36 @@
     <session id="2136152490">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.30" value="1" />
-          <entry key="project.open.time.45" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.45" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="8" />
-          <entry key="py" value="60" />
+          <entry key="py" value="102" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="8" />
-          <entry key="Python" value="60" />
+          <entry key="Python" value="102" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="5" />
-          <entry key="py" value="5844" />
-          <entry key="txt" value="21" />
+          <entry key="dummy" value="13" />
+          <entry key="py" value="10257" />
+          <entry key="txt" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="5844" />
+          <entry key="PLAIN_TEXT" value="52" />
+          <entry key="Python" value="10257" />
         </counts>
       </usages-collector>
     </session>
@@ -67,94 +71,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180807/06.oper04.py">
+        <entry file="file://$PROJECT_DIR$/src/180808/11.for_tuple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            <state relative-caret-position="114">
+              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180807/07.oper05.py">
+        <entry file="file://$PROJECT_DIR$/src/180808/12.for_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180807/08.oper06.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180807/09.oper07.py">
+        <entry file="file://$PROJECT_DIR$/src/180808/13.for_dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180807/10.format.py">
+        <entry file="file://$PROJECT_DIR$/src/180808/14.for_month.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="11" />
+            <state relative-caret-position="133">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/180808/15.for_month2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/180808/16.infinite_loop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/180808/17.continue.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/180807/11.math01.py">
+        <entry file="file://$PROJECT_DIR$/src/180808/str/format.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="285">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180807/12.math02.py">
+        <entry file="file://$PROJECT_DIR$/src/180808/str/len.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="114">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180807/05.oper03.py">
+        <entry file="file://$PROJECT_DIR$/src/180808/str/upper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180807/04.oper02.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180807/03.oper01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+            <state relative-caret-position="190">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -175,7 +176,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/tensorflowTest.py" />
         <option value="$PROJECT_DIR$/src/jupyter pratcie.ipynb" />
         <option value="$PROJECT_DIR$/src/New_jupyter.ipynb" />
         <option value="$PROJECT_DIR$/src/02.for_loop.py" />
@@ -205,10 +205,33 @@
         <option value="$PROJECT_DIR$/src/180807/15.if_03.py" />
         <option value="$PROJECT_DIR$/src/180807/04.oper02.py" />
         <option value="$PROJECT_DIR$/src/180807/11.math01.py" />
+        <option value="$PROJECT_DIR$/src/180808/01.if04.py" />
+        <option value="$PROJECT_DIR$/src/180808/while01.py" />
+        <option value="$PROJECT_DIR$/src/180808/02.while01.py" />
+        <option value="$PROJECT_DIR$/src/180808/03.while02.py" />
+        <option value="$PROJECT_DIR$/src/180808/04.while03.py" />
+        <option value="$PROJECT_DIR$/src/180808/05.while04.py" />
+        <option value="$PROJECT_DIR$/src/180808/06.for01.py" />
+        <option value="$PROJECT_DIR$/src/180808/07.for02.py" />
+        <option value="$PROJECT_DIR$/src/180808/09.for04.py" />
+        <option value="$PROJECT_DIR$/src/180808/10.for05.py" />
+        <option value="$PROJECT_DIR$/src/180808/11.for_tuple.py" />
+        <option value="$PROJECT_DIR$/src/180808/15.for_month2.py" />
+        <option value="$PROJECT_DIR$/src/180808/16.infinite.py" />
+        <option value="$PROJECT_DIR$/src/180808/16.infinite_loop.py" />
+        <option value="$PROJECT_DIR$/src/180808/17.continue.py" />
+        <option value="$PROJECT_DIR$/src/180808/str/upper.py" />
+        <option value="$PROJECT_DIR$/src/180808/08.for03.py" />
+        <option value="$PROJECT_DIR$/src/180808/12.for_list.py" />
+        <option value="$PROJECT_DIR$/src/180808/13.for_dictionary.py" />
+        <option value="$PROJECT_DIR$/src/180808/14.for_month.py" />
+        <option value="$PROJECT_DIR$/src/180808/str/len.py" />
+        <option value="$PROJECT_DIR$/src/180808/str/format.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1032" />
   </component>
@@ -220,6 +243,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,30 +260,31 @@
               <item name="python_01" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="180806" type="462c0819:PsiDirectoryNode" />
+              <item name="180808" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_01" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="180807" type="462c0819:PsiDirectoryNode" />
+              <item name="180808" type="462c0819:PsiDirectoryNode" />
+              <item name="str" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Documents\GitHub\Python_class\python_01\src\180807" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Documents\GitHub\Python_class\python_01\src\180806" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\GitHub\Python_class\python_01\src\180808" />
+      <recent name="C:\Users\Administrator\Documents\GitHub\Python_class\python_01\src\180807" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -274,7 +299,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.11.math01">
+  <component name="RunManager" selected="Python.11.for_tuple">
     <configuration name="python_01" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="python_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -292,7 +317,7 @@
       <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
-    <configuration name="06.oper04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11.for_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,11 +325,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180807" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180808" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180807/06.oper04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180808/11.for_tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,7 +338,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07.oper05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="17.continue" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,11 +346,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180807" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180808" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180807/07.oper05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180808/17.continue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,7 +359,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08.oper06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="format" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -342,11 +367,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180807" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180808/str" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180807/08.oper06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180808/str/format.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,7 +380,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09.oper07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="len" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -363,11 +388,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180807" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180808/str" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180807/09.oper07.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180808/str/len.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,7 +401,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11.math01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="upper" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -384,11 +409,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180807" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180808/str" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180807/11.math01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180808/str/upper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -399,19 +424,19 @@
     </configuration>
     <list>
       <item itemvalue="Jupyter Notebook.python_01" />
-      <item itemvalue="Python.06.oper04" />
-      <item itemvalue="Python.07.oper05" />
-      <item itemvalue="Python.08.oper06" />
-      <item itemvalue="Python.09.oper07" />
-      <item itemvalue="Python.11.math01" />
+      <item itemvalue="Python.17.continue" />
+      <item itemvalue="Python.upper" />
+      <item itemvalue="Python.len" />
+      <item itemvalue="Python.format" />
+      <item itemvalue="Python.11.for_tuple" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11.math01" />
-        <item itemvalue="Python.09.oper07" />
-        <item itemvalue="Python.08.oper06" />
-        <item itemvalue="Python.07.oper05" />
-        <item itemvalue="Python.06.oper04" />
+        <item itemvalue="Python.11.for_tuple" />
+        <item itemvalue="Python.format" />
+        <item itemvalue="Python.len" />
+        <item itemvalue="Python.upper" />
+        <item itemvalue="Python.17.continue" />
       </list>
     </recent_temporary>
   </component>
@@ -461,26 +486,33 @@
       <option name="project" value="LOCAL" />
       <updated>1533527542853</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="180807">
+      <created>1533618887869</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1533618887869</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17874141" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17874141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49867794" visible="true" weight="0.3227633" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4976203" visible="true" weight="0.31596828" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.33641618" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50132203" side_tool="true" weight="0.3227633" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5023797" side_tool="true" visible="true" weight="0.31596828" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -512,7 +544,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="real start" />
-    <option name="LAST_COMMIT_MESSAGE" value="real start" />
+    <MESSAGE value="180807" />
+    <option name="LAST_COMMIT_MESSAGE" value="180807" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/jupyter pratcie.ipynb" />
@@ -603,27 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/180807/13.if_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180807/14.if_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180807/15.if_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/180807/01.convert.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -669,7 +681,7 @@
     <entry file="file://$PROJECT_DIR$/src/180807/07.oper05.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -694,20 +706,181 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/180807/11.math01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/180807/12.math02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        <state relative-caret-position="266">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/180807/11.math01.py">
+    <entry file="file://$PROJECT_DIR$/src/180807/13.if_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="171">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180807/14.if_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180807/15.if_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/09.for04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/01.if04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/02.while01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/03.while02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/04.while03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/05.while04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/06.for01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/07.for02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/08.for03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/10.for05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/11.for_tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/12.for_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/13.for_dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/14.for_month.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/15.for_month2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/16.infinite_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/17.continue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/str/upper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/str/len.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180808/str/format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>
