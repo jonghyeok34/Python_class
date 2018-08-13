@@ -5,9 +5,13 @@
 namelist = ['Mary', "Sams", 'Amy', 'Tom', 'Micheal', 'Bob', 'Kelly']
 
 ret1 = sorted(namelist)
-print(namelist)  # 오름차순 정렬
+print(namelist)  
+
+# 오름차순 정렬
 print("ret1:", ret1)
 
+# 내림차순 정렬
 ret2 = sorted(namelist, reverse=True)
 print("ret2:", ret2)
 
+print('namelist:',namelist)

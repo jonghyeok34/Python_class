@@ -4,7 +4,7 @@
 
 from random import shuffle
 
-listdata = list(range(1,10))
+listdata = list(range(1, 10))
 s_data = listdata
 print(listdata)
 

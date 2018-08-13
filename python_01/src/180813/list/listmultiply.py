@@ -4,7 +4,7 @@ listdata = list(range(3))
 print(listdata)
 print(type(listdata))
 
-listdata_3 = listdata*3
+listdata_3 = listdata * 3
 print(listdata_3)
 
 # range (초기값, 최종값)

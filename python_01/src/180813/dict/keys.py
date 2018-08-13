@@ -8,3 +8,7 @@ print('ks:', ks)
 
 for k in ks:
     print("Key: %s\t Value: %s" % (k, names[k]))
+#
+print('--------------------------------')
+for k in names.keys():
+    print("Key: %s\t Value: %s" % (k, names[k]))
