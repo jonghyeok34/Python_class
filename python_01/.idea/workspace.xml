@@ -5,24 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67cbd4b8-87ed-4c13-b083-572a75f4ec31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/180820/file/16.csv_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180820/file/17.excel_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180820/file/18.json_github.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180822/Oracle/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180822/Oracle/oracle_delete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180822/Oracle/oracle_insert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180822/Oracle/oracle_select.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180822/Oracle/oracle_update.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180822/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180822/mysql/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180822/mysql/mysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180822/mysql/mysqltest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180822/sqlite/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180822/sqlite/sqlite_insert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180822/sqlite/sqlite_makeDB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/180822/sqlite/sqlite_select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180822/mysql/mysql_delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180822/mysql/mysql_insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180822/mysql/mysql_select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180822/mysql/mysql_update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180823/regex/01.beforeUsingRegex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180823/regex/02.using_regex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180823/regex/03.regex_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180823/regex/04_regex_sub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180823/regex/05.regex_jumincheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180823/wordcloud/alice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180823/wordcloud/alice_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180823/wordcloud/alice_story.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/180823/wordcloud/wordcloud1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/180820/file/15.csv_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/180820/file/15.csv_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/180822/mysql/mysqltest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/180822/mysql/mysqltest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,21 +31,24 @@
     <session id="2136152490">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.118" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.44" value="1" />
-          <entry key="project.open.time.45" value="2" />
+          <entry key="project.open.time.45" value="3" />
           <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.75" value="1" />
           <entry key="project.open.time.77" value="1" />
           <entry key="project.open.time.81" value="1" />
           <entry key="project.open.time.93" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -56,30 +56,32 @@
           <entry key="csv" value="1" />
           <entry key="ipynb" value="8" />
           <entry key="naverDB" value="2" />
-          <entry key="py" value="360" />
-          <entry key="txt" value="10" />
+          <entry key="png" value="1" />
+          <entry key="py" value="384" />
+          <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="8" />
-          <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="361" />
+          <entry key="Image" value="1" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Python" value="385" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="91" />
+          <entry key="dummy" value="108" />
           <entry key="naverDB" value="1" />
-          <entry key="py" value="45219" />
-          <entry key="txt" value="78" />
+          <entry key="py" value="47836" />
+          <entry key="txt" value="80" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="169" />
-          <entry key="Python" value="45220" />
+          <entry key="PLAIN_TEXT" value="188" />
+          <entry key="Python" value="47837" />
         </counts>
       </usages-collector>
     </session>
@@ -87,85 +89,95 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180822/mysql/mysql.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180822/mysql/mysqltest.py">
+        <entry file="file://$PROJECT_DIR$/src/180822/mysql/mysql_select.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="399">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180822/sqlite/sqlite_makeDB.py">
+        <entry file="file://$PROJECT_DIR$/src/180823/regex/01.beforeUsingRegex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            <state relative-caret-position="190">
+              <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180822/Oracle/oracle_delete.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180822/Oracle/oracle_insert.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180822/sqlite/sqlite_insert.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180822/Oracle/oracle_select.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180822/Oracle/oracle_update.py">
+        <entry file="file://$PROJECT_DIR$/src/180823/regex/02.using_regex01.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/180822/mysql/mysql_update.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/180823/regex/03.regex_string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/180823/wordcloud/alice.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/180823/wordcloud/alice_mask.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/180823/wordcloud/wordcloud1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+              <folding>
+                <marker date="1534994865876" expanded="true" signature="599:629" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/180822/sqlite/sqlite_select.py">
+        <entry file="file://$PROJECT_DIR$/src/180823/wordcloud/alice_story.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="342">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/180822/sqlite/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/180822/mysql/mysql_insert.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -190,20 +202,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/180820/except/except03.py" />
-        <option value="$PROJECT_DIR$/src/180820/except/except.py" />
-        <option value="$PROJECT_DIR$/src/180820/except/except04.py" />
-        <option value="$PROJECT_DIR$/src/180820/except/except05.py" />
-        <option value="$PROJECT_DIR$/src/180820/except/exception09.py" />
-        <option value="$PROJECT_DIR$/src/180820/except/except09.py" />
-        <option value="$PROJECT_DIR$/src/180820/file/read.py" />
-        <option value="$PROJECT_DIR$/src/180820/inheritance/inheritance01.py" />
-        <option value="$PROJECT_DIR$/src/180820/inheritance/multi_inheritance.py" />
-        <option value="$PROJECT_DIR$/src/180820/except/except06.py" />
-        <option value="$PROJECT_DIR$/src/180820/except/except08.py" />
-        <option value="$PROJECT_DIR$/src/180820/file/01.read.py" />
-        <option value="$PROJECT_DIR$/src/180820/file/02.readline.py" />
-        <option value="$PROJECT_DIR$/src/180820/file/03.readlines.py" />
         <option value="$PROJECT_DIR$/src/180820/file/test.txt" />
         <option value="$PROJECT_DIR$/src/180820/file/04.utf8_read.py" />
         <option value="$PROJECT_DIR$/src/180820/file/05.write.py" />
@@ -241,6 +239,20 @@
         <option value="$PROJECT_DIR$/src/180822/sqlite/sqlite_makeDB.py" />
         <option value="$PROJECT_DIR$/src/180822/sqlite/sqlite_insert.py" />
         <option value="$PROJECT_DIR$/src/180822/Oracle/oracle_insert.py" />
+        <option value="$PROJECT_DIR$/src/180822/mysql/mysqltest.py" />
+        <option value="$PROJECT_DIR$/src/180822/mysql/mysql_insert.py" />
+        <option value="$PROJECT_DIR$/src/180822/mysql/mysql_delete.py" />
+        <option value="$PROJECT_DIR$/src/180823/regex/01.regex01.py" />
+        <option value="$PROJECT_DIR$/src/180823/regex/02.using_regex.py" />
+        <option value="$PROJECT_DIR$/src/180823/regex/04_regex_sub.py" />
+        <option value="$PROJECT_DIR$/src/180823/regex/05.regex_jumincheck.py" />
+        <option value="$PROJECT_DIR$/src/180823/wordcloud.py" />
+        <option value="$PROJECT_DIR$/src/180823/wordcloud/wordcloud.py" />
+        <option value="$PROJECT_DIR$/src/180822/mysql/mysql_select.py" />
+        <option value="$PROJECT_DIR$/src/180822/mysql/mysql_update.py" />
+        <option value="$PROJECT_DIR$/src/180823/regex/02.using_regex01.py" />
+        <option value="$PROJECT_DIR$/src/180823/regex/03.regex_string.py" />
+        <option value="$PROJECT_DIR$/src/180823/wordcloud/alice_story.py" />
       </list>
     </option>
   </component>
@@ -258,6 +270,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,48 +287,21 @@
               <item name="python_01" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="180820" type="462c0819:PsiDirectoryNode" />
+              <item name="180823" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_01" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="180820" type="462c0819:PsiDirectoryNode" />
-              <item name="except" type="462c0819:PsiDirectoryNode" />
+              <item name="180823" type="462c0819:PsiDirectoryNode" />
+              <item name="regex" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_01" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="180820" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="180822" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="180822" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="180822" type="462c0819:PsiDirectoryNode" />
-              <item name="Oracle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="180822" type="462c0819:PsiDirectoryNode" />
-              <item name="sqlite" type="462c0819:PsiDirectoryNode" />
+              <item name="180823" type="462c0819:PsiDirectoryNode" />
+              <item name="wordcloud" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_01" type="b2602c69:ProjectViewProjectNode" />
@@ -341,7 +327,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,11 +342,11 @@
       <recent name="C:\Users\Administrator\Documents\GitHub\Python_class\python_01\src\180814\dict" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\GitHub\Python_class\python_01\src\180823\wordcloud" />
       <recent name="C:\Users\Administrator\Documents\GitHub\Python_class\python_01\src\180822\mysql" />
       <recent name="C:\Users\Administrator\Documents\GitHub\Python_class\python_01\src\180822\sqlite" />
       <recent name="C:\Users\Administrator\Documents\GitHub\Python_class\python_01\src\180822\Oracle" />
       <recent name="C:\Users\Administrator\Documents\GitHub\Python_class\python_01\src\180817\module" />
-      <recent name="C:\Users\Administrator\Documents\GitHub\Python_class\python_01\src\180809\str" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -376,7 +361,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.18.json_github">
+  <component name="RunManager" selected="Python.alice_story">
     <configuration name="python_01" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="python_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -394,7 +379,7 @@
       <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
-    <configuration name="16.csv_write" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03.regex_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -402,11 +387,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180820/file" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180823/regex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180820/file/16.csv_write.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180823/regex/03.regex_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -415,7 +400,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17.excel_read" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_regex_sub" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -423,11 +408,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180820/file" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180823/regex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180820/file/17.excel_read.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180823/regex/04_regex_sub.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -436,7 +421,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="18.json_github" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="05.regex_jumincheck" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -444,11 +429,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180820/file" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180823/regex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180820/file/18.json_github.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180823/regex/05.regex_jumincheck.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -457,7 +442,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oracle_select (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="alice_story" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -465,11 +450,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180822/Oracle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180823/wordcloud" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180822/Oracle/oracle_select.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180823/wordcloud/alice_story.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -478,7 +463,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sqlite_select" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wordcloud" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -486,11 +471,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180822/sqlite" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/180823/wordcloud" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/180822/sqlite/sqlite_select.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Documents\GitHub\Python_class\python_01\src\180823\wordcloud\wordcloud1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -501,19 +486,19 @@
     </configuration>
     <list>
       <item itemvalue="Jupyter Notebook.python_01" />
-      <item itemvalue="Python.oracle_select (1)" />
-      <item itemvalue="Python.sqlite_select" />
-      <item itemvalue="Python.17.excel_read" />
-      <item itemvalue="Python.16.csv_write" />
-      <item itemvalue="Python.18.json_github" />
+      <item itemvalue="Python.03.regex_string" />
+      <item itemvalue="Python.04_regex_sub" />
+      <item itemvalue="Python.05.regex_jumincheck" />
+      <item itemvalue="Python.wordcloud" />
+      <item itemvalue="Python.alice_story" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.18.json_github" />
-        <item itemvalue="Python.17.excel_read" />
-        <item itemvalue="Python.16.csv_write" />
-        <item itemvalue="Python.oracle_select (1)" />
-        <item itemvalue="Python.sqlite_select" />
+        <item itemvalue="Python.alice_story" />
+        <item itemvalue="Python.wordcloud" />
+        <item itemvalue="Python.03.regex_string" />
+        <item itemvalue="Python.05.regex_jumincheck" />
+        <item itemvalue="Python.04_regex_sub" />
       </list>
     </recent_temporary>
   </component>
@@ -626,26 +611,33 @@
       <option name="project" value="LOCAL" />
       <updated>1534829296257</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="180822 파이썬 수업">
+      <created>1534915838446</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1534915838446</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17874141" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17874141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4928609" weight="0.32842582" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.54309887" visible="true" weight="0.27066818" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49867794" weight="0.3997735" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5415124" visible="true" weight="0.26387316" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49814913" weight="0.3997735" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.33641618" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.4569011" side_tool="true" visible="true" weight="0.27066818" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.45848757" side_tool="true" visible="true" weight="0.26387316" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -664,107 +656,10 @@
     <MESSAGE value="180813 파이썬 수업" />
     <MESSAGE value="180814 파이썬 수업" />
     <MESSAGE value="180816 파이썬 수업" />
-    <option name="LAST_COMMIT_MESSAGE" value="180816 파이썬 수업" />
+    <MESSAGE value="180822 파이썬 수업" />
+    <option name="LAST_COMMIT_MESSAGE" value="180822 파이썬 수업" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/180820/except/except06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180820/except/except08.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180820/except/except09.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180820/file/02.readline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180820/file/03.readlines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180820/file/01.read.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180820/file/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180820/file/movie_quotes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180820/file/text1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180820/file/movie.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180820/file/15.find.py" />
-    <entry file="file://$PROJECT_DIR$/src/180809/str/02.find.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180820/file/data.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180820/file/data1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180820/file/04.utf8_read.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180820/file/05.write.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/180820/file/06.writelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -863,9 +758,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/180822/naverDB">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180822/naverDB" />
     <entry file="file://$PROJECT_DIR$/src/180822/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -875,9 +768,6 @@
           <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180822/mysql/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/180822/Oracle/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -907,9 +797,68 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#17#45#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180822/sqlite/sqlite_makeDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180822/Oracle/oracle_insert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180822/sqlite/sqlite_insert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180822/Oracle/oracle_select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180822/Oracle/oracle_update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180822/sqlite/sqlite_select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180822/mysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180822/sqlite/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="283" selection-start-line="283" selection-end-line="283" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180822/Oracle/oracle_delete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -918,60 +867,103 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/180822/mysql/mysqltest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="304">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/180822/Oracle/oracle_delete.py">
+    <entry file="file://$PROJECT_DIR$/src/180823/wordcloud/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/src/180823/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/src/180823/regex/04_regex_sub.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/180822/Oracle/oracle_insert.py">
+    <entry file="file://$PROJECT_DIR$/src/180823/regex/05.regex_jumincheck.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/180822/Oracle/oracle_select.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180822/Oracle/oracle_update.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180822/sqlite/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180822/sqlite/sqlite_insert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180822/sqlite/sqlite_makeDB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/180822/sqlite/sqlite_select.py">
+    <entry file="file://$PROJECT_DIR$/src/180822/mysql/mysql_delete.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180822/mysql/mysql_insert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180822/mysql/mysql_select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180822/mysql/mysql_update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180823/regex/01.beforeUsingRegex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180823/regex/02.using_regex01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180823/regex/03.regex_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180823/wordcloud/alice.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180823/wordcloud/alice_mask.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180823/wordcloud/wordcloud1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <marker date="1534994865876" expanded="true" signature="599:629" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/180823/wordcloud/alice_story.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
